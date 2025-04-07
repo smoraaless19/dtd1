@@ -1,0 +1,17 @@
+# Ejercicio XML DTD1
+
+## Alumno
+- **Nombre:** Sergio Morales  
+- **Curso:** ASIR1  
+- **Fecha de realización:** 06/04/2025  
+
+## Descripción del Proyecto
+Este ejercicio consiste en la creación de un archivo XML que representa un libro y su validación mediante un archivo DTD externo.
+
+## Archivos Incluidos
+- `index.html`: Página con estructura básica para presentación del ejercicio.
+- `styles.css`: Estilos aplicados a la página HTML.
+- `libro.xml`: Archivo XML con los datos del libro.
+- `libro.dtd`: Definición del DTD utilizada para validar el XML.
+
+## Estructura de Carpeta Recomendada
