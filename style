@@ -1,0 +1,40 @@
+/* 
+Nombre: Sergio Morales 
+Curso: ASIR1 
+Fecha: 06/04/2025 
+Ejercicio: XML DTD1 
+*/
+
+/* ========  Estilos generales ======== */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e6f2ff;
+}
+
+/* ========  Encabezado ======== */
+.header {
+    background-color: #005a9c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* ========  Contenido principal ======== */
+.main-content {
+    padding: 20px;
+}
+
+/* ========  Pie de página ======== */
+.footer {
+    background-color: #003d66;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* 
+Fecha: 06/04/2025
+Cambio: Se definió el estilo base para header, main y footer 
+*/
